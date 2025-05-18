@@ -4,29 +4,29 @@
 
 Prepare to embark on a noble quest in "Knight's Tour," where you step into the shoes of a valiant knight on a chessboard, aiming to visit every square exactly once.
 
-🌟 **Game Overview:**
+**Game Overview:**
 
-🛡️ **Objective**: Conquer the Knight's Tour by visiting all squares on the chessboard.
+**Objective**: Conquer the Knight's Tour by visiting all squares on the chessboard.
 
-🎮 **Gameplay**: A video game adaptation of the classic puzzle.
+**Gameplay**: A video game adaptation of the classic puzzle.
 
-📚 **Rules**: Navigate the knight with true chess-like moves.
+**Rules**: Navigate the knight with true chess-like moves.
 
-🌌 **Pattern**: Your knight moves in the classic L-shape pattern.
+**Pattern**: Your knight moves in the classic L-shape pattern.
 
-🟡 **Highlight**: Click squares to move; your path is marked in yellow.
+**Highlight**: Click squares to move; your path is marked in yellow.
 
-🔢 **Progress**: Keep track of moves made and your journey's count.
+**Progress**: Keep track of moves made and your journey's count.
 
-🚫 **Legal Moves**: You can't make an illegal move; the chessboard enforces the rules.
+**Legal Moves**: You can't make an illegal move; the chessboard enforces the rules.
 
-🔍 **Moves Count**: Check the move counter to track your progress.
+**Moves Count**: Check the move counter to track your progress.
 
-🟡🔵 **Color Coding**: The current tile pressed is marked in yellow, while previous tiles already clicked are highlighted in blue.
+**Color Coding**: The current tile pressed is marked in yellow, while previous tiles already clicked are highlighted in blue.
 
-🏆 **Victory**: When the entire board turns blue, claim your triumphant victory!
+**Victory**: When the entire board turns blue, claim your triumphant victory!
 
-📽️ **Gameplay Showcase** 🎬
+**Gameplay Showcase** 🎬
 
 Watch the gameplay video to witness the challenge and excitement of the Knight's Tour. Each move you make brings you closer to victory in this timeless chess adventure.
 
